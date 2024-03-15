@@ -1,4 +1,3 @@
-
 E commerce store using HTML,CSS,Javascript and Bootstrap
 ## Features
 
