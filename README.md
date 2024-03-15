@@ -1,10 +1,5 @@
 
-# Full Stack Next.js 13 E-Commerce Store | Next.js 13 App Router, React, Tailwind, Prisma, MySQL
-
-This is the repository for a fully functioning [E-commerce Store](https://ecommerce-store-next13.vercel.app/).
-
-Find the Github repository for the Admin Dashboard here: https://github.com/demitraps/ecommerce-admin-dashboard-next13
-
+E commerce store using HTML,CSS,Javascript and Bootstrap
 ## Features
 
 - Featured products in homepage
@@ -18,24 +13,12 @@ Find the Github repository for the Admin Dashboard here: https://github.com/demi
    
 ## Tech Stack
 
-**React, Next.JS 13, TypeScript, TailwindCSS**
-
-**Authentication:** Clerk
-**Data validation:** Zod
-**FileUploads:** Cloudinary
-**Components:** Shadcn
-**Database:** MySQL-PlanetScale with Prisma ORM
+HTML,CSS,Javascript and Bootstrap
 
 ## Demo
 https://ecommerce-store-next13.vercel.app/
 
 ![App Screenshot](./demo/demo.gif)
-
-
-## Checkout
-
-For demo purposes, you can use [Stripe Testing Cards](https://stripe.com/docs/testing).
-
 
 ## Screenshots
 
@@ -81,12 +64,6 @@ Stripe:
 ### Prerequisites
 
 **Node version 14.x**
-
-### Cloning the repository
-
-```bash
-  git clone https://github.com/demitraps/ecommerce-store-next13.git
-```
 
 ### Start the app
 
